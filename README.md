@@ -13,7 +13,7 @@
 
 ## 📰News
 
-- **[2025.08.09]** We have released the code for TM-UNet!
+- **[2025.11.15]** We have released the code for TM-UNet!
 ## 🛠Setup
 
 ```bash
