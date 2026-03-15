@@ -1,4 +1,4 @@
-# ISBI 2026 Oral|TM-UNet: Token-Memory Enhanced Sequential Modeling for Efficient Medical Image Segmentation
+# ISBI 2026 Oral | TM-UNet: Token-Memory Enhanced Sequential Modeling for Efficient Medical Image Segmentation
 
 ### [ArXiv Paper]() 
 
